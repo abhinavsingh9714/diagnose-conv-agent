@@ -1,0 +1,11 @@
+transformers
+datasets
+peft
+accelerate
+scikit-learn
+torch
+tqdm
+fastapi
+uvicorn
+jupyter
+

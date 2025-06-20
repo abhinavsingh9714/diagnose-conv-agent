@@ -1,0 +1,7 @@
+[project]
+name = "medtriage-llm"
+version = "0.1.0"
+description = "LLM for symptom-to-question medical triage"
+authors = ["Your Name <you@example.com>"]
+dependencies = []
+
