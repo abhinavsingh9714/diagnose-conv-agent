@@ -1,0 +1,3801 @@
+Mild headache, throbbing in nature
+
+Persistent cough, especially at night
+
+Sore throat, difficulty swallowing
+
+Fatigue, constant and overwhelming
+
+Nausea, occasional, accompanied by dizziness
+
+Abdominal pain, dull ache in the lower right quadrant
+
+Shortness of breath upon exertion
+
+Muscle aches, widespread and migratory
+
+Joint pain, particularly in the knees and hands
+
+Skin rash, itchy, red patches on the torso
+
+Fever, low-grade, chills present
+
+Nasal congestion, profuse clear discharge
+
+Diarrhea, watery, occurring several times a day
+
+Constipation, infrequent bowel movements
+
+Chest pain, sharp, exacerbated by deep breathing
+
+Dizziness, lightheadedness when standing up quickly
+
+Loss of appetite, significant weight loss over time
+
+Swelling in the ankles, pitting edema
+
+Burning sensation during urination
+
+Frequent urination, increased nocturnal frequency
+
+Blurred vision, intermittent, in the left eye
+
+Ringing in ears, constant, low-pitched
+
+Numbness in fingers, tingling sensation
+
+Difficulty sleeping, trouble falling asleep
+
+Mood swings, periods of irritability and sadness
+
+Dry mouth, feeling of cotton in mouth
+
+Hair loss, significant thinning over scalp
+
+Brittle nails, easily breaking
+
+Cold intolerance, always feeling cold
+
+Heat intolerance, excessive sweating
+
+Memory loss, difficulty recalling recent events
+
+Tremors in hands, noticeable when resting
+
+Weakness in legs, difficulty climbing stairs
+
+Hoarseness of voice, persistent for weeks
+
+Swollen glands in the neck, tender to touch
+
+Painful urination, stinging sensation
+
+Vomiting, projectile, after meals
+
+Heart palpitations, feeling of skipped beats
+
+Fainting spells, occasional loss of consciousness
+
+Dry eyes, gritty sensation
+
+Itchy scalp, flaking skin
+
+Leg cramps, nocturnal, in calves
+
+Restless legs, urge to move legs
+
+Heartburn, burning sensation in chest after eating
+
+Bloating, feeling of fullness after small meals
+
+Gout flares, severe pain in big toe
+
+Sciatic pain, radiating down the leg
+
+Back pain, chronic lower back discomfort
+
+Neck stiffness, limited range of motion
+
+Shoulder pain, difficulty lifting arm
+
+Knee pain, clicking sound with movement
+
+Foot pain, particularly in the heel
+
+Hand numbness, worse at night
+
+Facial numbness, one-sided
+
+Headache, localized behind the eyes
+
+Sinus pressure, throbbing pain in forehead
+
+Earache, sharp, unilateral pain
+
+Toothache, persistent, sensitive to cold
+
+Jaw pain, clicking sound when opening mouth
+
+Gum bleeding, frequent while brushing
+
+Mouth sores, painful, on inner cheek
+
+Bad breath, chronic, despite good hygiene
+
+Difficulty swallowing, feeling of food sticking
+
+Indigestion, feeling of fullness, bloating
+
+Belching, frequent, after meals
+
+Flatulence, excessive, abdominal distension
+
+Changes in bowel habits, alternating diarrhea/constipation
+
+Rectal bleeding, bright red blood on toilet paper
+
+Hemorrhoids, painful, itchy around anus
+
+Itching around anus, intense, especially at night
+
+Burning on urination, accompanied by urgency
+
+Cloudy urine, strong odor
+
+Blood in urine, pinkish tint
+
+Decreased urine output, dark colored
+
+Urinary incontinence, leakage with cough
+
+Vaginal discharge, unusual color and odor
+
+Vaginal itching, intense, external
+
+Painful intercourse, discomfort during sex
+
+Irregular periods, heavy bleeding
+
+Missed periods, prolonged amenorrhea
+
+Breast pain, cyclical, tender to touch
+
+Breast lump, firm, non-tender
+
+Nipple discharge, clear fluid
+
+Testicular pain, dull ache, unilateral
+
+Erectile dysfunction, difficulty maintaining erection
+
+Low libido, decreased sexual desire
+
+Swollen lymph nodes, generalized
+
+Night sweats, drenching, requiring change of clothes
+
+Unexplained weight gain, despite no dietary changes
+
+Difficulty concentrating, easily distracted
+
+Irritability, short temper
+
+Anxiety, constant worrying
+
+Depression, persistent sadness, loss of interest
+
+Panic attacks, sudden onset of fear
+
+Obsessive thoughts, repetitive actions
+
+Hallucinations, visual and auditory
+
+Delusions, false beliefs
+
+Speech difficulties, slurred words
+
+Gait disturbance, unsteady walking
+
+Tremors at rest, rhythmic movements
+
+Muscle weakness, affecting specific limbs
+
+Numbness in extremities, glove-and-stocking pattern
+
+Tingling sensation, pins and needles
+
+Loss of sensation, diminished touch perception
+
+Balance issues, frequent falls
+
+Vertigo, spinning sensation
+
+Vision changes, sudden loss of peripheral vision
+
+Double vision, seeing two images
+
+Eye pain, sharp, behind the eye
+
+Light sensitivity, photophobia
+
+Hearing loss, gradual, in both ears
+
+Tinnitus, persistent buzzing sound
+
+Ear discharge, foul-smelling
+
+Nosebleeds, frequent, from one nostril
+
+Loss of smell, anosmia
+
+Loss of taste, ageusia
+
+Dry cough, irritating, non-productive
+
+Productive cough, green phlegm
+
+Wheezing, whistling sound with breathing
+
+Chest tightness, feeling of pressure
+
+Pain with deep breath, sharp, left side
+
+Shortness of breath at rest, difficulty breathing
+
+Swollen ankles, mild, unilateral
+
+Cold hands and feet, chronically
+
+Discolored fingers, turning white then blue
+
+Leg cramps at night, waking from sleep
+
+Varicose veins, bulging, painful
+
+Skin discoloration, yellowing of skin
+
+Bruising easily, without trauma
+
+Petechiae, small red spots on skin
+
+Jaundice, yellowing of eyes and skin
+
+Pale skin, general pallor
+
+Dry skin, flaky, itchy patches
+
+Excessive sweating, even in cool temperatures
+
+Feeling feverish, without measured fever
+
+Chills and sweats, alternating
+
+Generalized weakness, feeling of malaise
+
+Joint stiffness, worse in morning
+
+Swollen joints, red and warm
+
+Limited joint movement, decreased range
+
+Tender joints, painful to touch
+
+Muscle stiffness, after prolonged rest
+
+Muscle spasms, involuntary contractions
+
+Muscle twitching, visible fasciculations
+
+Tremors during movement, intention tremor
+
+Difficulty walking, shuffling gait
+
+Dragging foot, unilateral
+
+Loss of coordination, clumsiness
+
+Speech problems, difficulty articulating words
+
+Difficulty writing, illegible handwriting
+
+Memory lapses, minor forgetfulness
+
+Confusion, disorientation to time/place
+
+Headaches with aura, visual disturbances
+
+Migraine headaches, severe, pulsating
+
+Cluster headaches, excruciating, behind one eye
+
+Tension headaches, band-like pressure
+
+Dizziness after standing, orthostatic
+
+Feeling faint, presyncope
+
+Blackouts, transient loss of consciousness
+
+Numbness in face, around mouth
+
+Tingling in scalp, crawling sensation
+
+Weakness in arm, difficulty gripping
+
+Difficulty chewing, jaw fatigue
+
+Clicking jaw, with pain
+
+Sore gums, swollen and red
+
+Loose teeth, wobbly
+
+Mouth ulcers, recurrent
+
+Dry mouth at night, waking with thirst
+
+Metallic taste in mouth, persistent
+
+Bitter taste in mouth, after eating
+
+Swollen tongue, difficulty speaking
+
+White coating on tongue, thick
+
+Red tongue, smooth
+
+Cracks at corners of mouth, painful
+
+Sore throat, scratching sensation
+
+Difficulty swallowing liquids, choking
+
+Heartburn after fatty foods
+
+Regurgitation of food, sour taste
+
+Nausea after eating, fullness
+
+Vomiting undigested food
+
+Abdominal bloating after meals
+
+Excessive burping, constant
+
+Stomach rumbling, loud noises
+
+Changes in stool color, pale, fatty
+
+Bloody stools, dark, tarry
+
+Mucus in stool, slimy
+
+Incomplete bowel emptying
+
+Pain during bowel movement
+
+Rectal itching, generalized
+
+Anal pain, sharp, with defecation
+
+Urinary urgency, sudden need to urinate
+
+Urinary frequency, small amounts
+
+Pain in bladder, pressure
+
+Strong urine odor, ammonia-like
+
+Foamy urine, persistent
+
+Nocturia, waking multiple times to urinate
+
+Urine leakage during exercise
+
+Vaginal dryness, discomfort
+
+Painful periods, severe cramps
+
+Heavy periods, prolonged bleeding
+
+Irregular bleeding between periods
+
+Hot flashes, sudden warmth
+
+Decreased breast size, atrophy
+
+Nipple tenderness, sensitive to touch
+
+Scrotal pain, acute onset
+
+Swollen testicle, unilateral enlargement
+
+Penile discharge, white, thick
+
+Painful erections, discomfort
+
+Ejaculation problems, premature
+
+Loss of sex drive, significant reduction
+
+Enlarged lymph nodes, localized
+
+Sweating at night, profuse, non-exertional
+
+Unintentional weight loss, no changes in diet
+
+Increased appetite, despite weight loss
+
+Decreased appetite, loss of interest in food
+
+Sleep disturbances, waking frequently
+
+Early morning awakening, inability to fall back asleep
+
+Excessive daytime sleepiness, falling asleep unintentionally
+
+Nightmares, vivid, disturbing dreams
+
+Insomnia, difficulty falling or staying asleep
+
+Restless sleep, tossing and turning
+
+Loud snoring, disruptive to others
+
+Memory problems, difficulty learning new things
+
+Cognitive decline, gradual worsening
+
+Difficulty speaking, finding words
+
+Difficulty understanding speech
+
+Inability to recognize faces, prosopagnosia
+
+Spatial disorientation, getting lost easily
+
+Emotional lability, rapid mood changes
+
+Apathy, lack of motivation
+
+Social withdrawal, avoiding interaction
+
+Irritability with loud noises
+
+Sensitivity to light, discomfort
+
+Visual field defects, blind spots
+
+Flashing lights in vision
+
+Floaters in vision, moving spots
+
+Red eye, irritated, painful
+
+Eyelid twitching, involuntary
+
+Excessive tearing, watery eyes
+
+Dry eyes, burning sensation
+
+Difficulty focusing eyes, blurry up close
+
+Hearing difficulties in noisy environments
+
+Sudden hearing loss, unilateral
+
+Ear fullness, pressure sensation
+
+Itchy ears, external auditory canal
+
+Nosebleeds, recurrent, heavy
+
+Nasal polyps, obstruction
+
+Difficulty breathing through nose
+
+Post-nasal drip, constant throat clearing
+
+Sore throat with fever, swollen tonsils
+
+Coughing up blood, streaks in sputum
+
+Shortness of breath on mild exertion
+
+Wheezing with activity
+
+Chest pain radiating to arm
+
+Tightness in chest after exercise
+
+Painful breathing, pleuritic
+
+Swelling in legs, bilateral, evening
+
+Pitting edema in feet, deep indentation
+
+Cold feet, persistently
+
+Discoloration of toes, blue
+
+Leg pain with walking, claudication
+
+Skin ulcers, non-healing
+
+Skin nodules, firm, under skin
+
+Hives, itchy welts
+
+Blistering skin, painful
+
+Peeling skin, widespread
+
+Excessive bruising, large ecchymoses
+
+Pallor of mucous membranes
+
+Yellow eyes, scleral icterus
+
+Dry hair, brittle texture
+
+Hair thinning, diffuse
+
+Nail changes, ridging
+
+Nail discoloration, yellow
+
+Clubbing of fingers, enlarged fingertips
+
+Chronic fatigue, unrefreshing sleep
+
+Low energy, difficulty performing tasks
+
+Generalized body aches, flu-like
+
+Joint creaking, noisy with movement
+
+Joint locking, sudden inability to move
+
+Warm joints, localized heat
+
+Muscle weakness, generalized
+
+Muscle wasting, atrophy
+
+Difficulty rising from chair
+
+Difficulty raising arms
+
+Fasciculations in calves
+
+Muscle cramps, severe, Charlie horse
+
+Numbness in feet, burning
+
+Tingling in hands, nocturnal
+
+Loss of proprioception, unsteady on feet
+
+Balance problems, dizziness
+
+Gait instability, wide-based walk
+
+Slurred speech, slow articulation
+
+Difficulty swallowing food, dysphagia
+
+Drooling, excessive saliva
+
+Facial droop, one side
+
+Hand tremors, fine, with action
+
+Voice changes, deeper pitch
+
+Memory problems, short-term
+
+Executive dysfunction, planning issues
+
+Difficulty with calculations
+
+Disorientation to person
+
+Agitation, restlessness
+
+Paranoia, suspiciousness
+
+Delusions of grandeur
+
+Visual hallucinations, geometric shapes
+
+Auditory hallucinations, voices
+
+Disorganized thought, incoherent speech
+
+Rapid eye movements, nystagmus
+
+Sensitivity to cold in fingers
+
+Raynaud's phenomenon, color changes in fingers
+
+Swollen fingers, difficulty with rings
+
+Tingling in legs, pins and needles
+
+Restless legs syndrome, urge to move
+
+Calf pain at night, muscle spasms
+
+Varicose veins, aching legs
+
+Chronic leg swelling, non-pitting
+
+Hair loss on legs, patchy
+
+Cold sensation in feet, constant
+
+Skin redness, localized inflammation
+
+Skin peeling on hands, especially palms
+
+Excessive sweating, localized to armpits
+
+Night sweats, mild, occasional
+
+Low energy after sleep
+
+Muscle soreness, after light activity
+
+Joint swelling, minor, in one finger
+
+Tenderness in joints, slight discomfort
+
+Limited range of motion in elbow
+
+Muscle weakness in forearm
+
+Hand tremors, mild, when writing
+
+Numbness in thumb and index finger
+
+Tingling in toes, intermittent
+
+Foot drop, difficulty lifting foot
+
+Speech impairment, hesitant
+
+Difficulty articulating long sentences
+
+Memory recall issues, names
+
+Difficulty with problem solving
+
+Disorientation to surroundings
+
+Anxiety attacks, sudden, intense fear
+
+Depression with low mood
+
+Obsessive-compulsive behaviors, checking
+
+Auditory illusions, misinterpreting sounds
+
+Visual illusions, distorting objects
+
+Disordered thoughts, illogical reasoning
+
+Eye pain, dull ache, both eyes
+
+Photophobia, aversion to bright light
+
+Scotomas, blind spots in central vision
+
+Dry eyes, sensation of foreign body
+
+Redness in one eye, painful
+
+Eyelid swelling, puffiness
+
+Excessive watering of one eye
+
+Blurred vision in one eye, transient
+
+Hearing loss in one ear, high frequency
+
+Tinnitus, high-pitched ringing
+
+Ear discharge, clear, odorless
+
+Ear itching, internal
+
+Nosebleeds, minor, from both nostrils
+
+Nasal congestion, persistent, with pressure
+
+Loss of taste, diminished sweetness
+
+Post-nasal drip, thick mucus
+
+Sore throat, constant irritation
+
+Cough, dry, hacking
+
+Shortness of breath at night, waking up gasping
+
+Wheezing upon exhalation
+
+Chest pain, burning sensation
+
+Tightness in chest with deep breath
+
+Pain on breathing, right side
+
+Swelling in feet, mild, one-sided
+
+Cold hands, constantly
+
+Discoloration of fingers, pale
+
+Leg pain, dull ache, diffuse
+
+Non-healing wounds on legs
+
+Skin rash, non-itchy, red spots
+
+Blisters on feet, small
+
+Peeling skin on feet
+
+Excessive sweating, generalized, night
+
+Night sweats, moderate, occasional
+
+Low grade fever, evening
+
+Chills without fever
+
+Generalized malaise, feeling unwell
+
+Joint stiffness, mild, after sitting
+
+Swelling of fingers, mild
+
+Tenderness in wrist joint
+
+Restricted movement in hip
+
+Muscle weakness in shoulder
+
+Hand tremors, with intention
+
+Numbness in pinky finger
+
+Tingling in arms, unilateral
+
+Foot numbness, localized
+
+Speech fluency issues, stuttering
+
+Difficulty forming sentences
+
+Memory consolidation issues
+
+Impaired judgment, poor decisions
+
+Disorientation to environment
+
+Emotional numbness, flat affect
+
+Delusions of persecution
+
+Visual hallucinations, vivid imagery
+
+Auditory hallucinations, whispering
+
+Tangential speech, rambling
+
+Eye strain, tired eyes
+
+Light sensitivity, moderate
+
+Spots in vision, black dots
+
+Floaters, numerous, dark
+
+Redness in both eyes, mild irritation
+
+Eyelid twitch, upper eyelid
+
+Dry eyes, gritty feeling
+
+Blurred vision, distant objects
+
+Hearing loss, age-related
+
+Tinnitus, pulsing sound
+
+Earache, dull, bilateral
+
+Itchy ear canal, external
+
+Nosebleeds, chronic, with crusting
+
+Nasal obstruction, persistent
+
+Decreased sense of smell, partial
+
+Chronic sore throat, constant tickle
+
+Cough, productive, yellow sputum
+
+Shortness of breath, with talking
+
+Wheezing, all the time
+
+Chest discomfort, vague
+
+Painful breathing, anterior chest
+
+Swelling in hands, morning
+
+Cold toes, persistently
+
+Discoloration of toes, red
+
+Leg pain, sharp, intermittent
+
+Skin peeling on face, dryness
+
+Excessive sweating, nocturnal
+
+Night sweats, severe, requiring towel
+
+Persistent low energy, exhaustion
+
+Muscle pain, dull, generalized
+
+Joint swelling, in multiple joints
+
+Tenderness in knee joint
+
+Restricted movement in ankle
+
+Muscle weakness in calf
+
+Hand tremors, difficulty with fine motor skills
+
+Numbness in big toe
+
+Tingling in face, unilateral
+
+Speech difficulty, word finding
+
+Memory impairment, long-term
+
+Impaired reasoning, logical errors
+
+Disorientation to self
+
+Emotional outbursts, crying spells
+
+Delusions of reference
+
+Visual hallucinations, complex scenes
+
+Auditory hallucinations, music
+
+Word salad, incoherent speech
+
+Eye fatigue, after reading
+
+Light sensitivity, severe, disabling
+
+Visual distortion, wavy lines
+
+Floaters, occasional, transparent
+
+Redness in eyes, bloodshot
+
+Eyelid drooping, ptosis
+
+Dry eyes, burning, tearing
+
+Blurred vision, close objects
+
+Hearing loss, sudden, bilateral
+
+Tinnitus, clicking sound
+
+Ear pain, pressure, unilateral
+
+Itchy ears, behind ear
+
+Nosebleeds, traumatic
+
+Nasal dryness, crusting
+
+Loss of smell and taste, complete
+
+Chronic cough, debilitating
+
+Shortness of breath, even with minimal activity
+
+Wheezing with inspiration
+
+Chest pain, crushing
+
+Painful breathing, side stitch
+
+Swelling in face, puffy
+
+Cold sensation in hands, one-sided
+
+Discoloration of fingers, blue and red
+
+Leg pain, aching, restless
+
+Non-healing sores on feet
+
+Skin lesions, raised, red
+
+Blisters on hands, multiple
+
+Excessive sweating, clammy hands
+
+Night sweats, mild, constant
+
+Constant fatigue, feeling drained
+
+Muscle weakness, profound
+
+Joint pain, chronic, progressive
+
+Tenderness in shoulder joint
+
+Restricted movement in wrist
+
+Muscle weakness in thigh
+
+Hand tremors, involuntary
+
+Numbness in entire hand
+
+Tingling in entire foot
+
+Speech difficulties, dysarthria
+
+Memory loss, severe, affecting daily life
+
+Cognitive rigidity, difficulty with change
+
+Disorientation to time, consistent
+
+Flat affect, lack of emotional expression
+
+Visual hallucinations, frightening
+
+Auditory hallucinations, commanding voices
+
+Echolalia, repeating words
+
+Eye irritation, burning
+
+Light sensitivity, excruciating
+
+Visual snow, static in vision
+
+Floaters, fixed, large
+
+Redness in eyes, severe, painful
+
+Eyelid spasm, involuntary
+
+Dry eyes, painful, constant
+
+Blurred vision, distorted
+
+Hearing loss, conductive
+
+Tinnitus, roaring sound
+
+Earache, throbbing, bilateral
+
+Itchy inner ear
+
+Nosebleeds, severe, requiring packing
+
+Nasal crusting, painful
+
+Persistent dry mouth, waking up with thirst
+
+Sore throat, constant burning
+
+Productive cough, green and bloody
+
+Shortness of breath, orthopnea
+
+Wheezing, audible without stethoscope
+
+Chest pain, radiating to jaw
+
+Painful breathing, aggravated by movement
+
+Swelling in legs, unilateral, progressive
+
+Cold feet, sensitivity to cold
+
+Discoloration of toes, black
+
+Leg pain, cramping, after walking short distance
+
+Skin discoloration, purplish
+
+Skin nodules, painful
+
+Hives, generalized, severe itching
+
+Blistering skin, widespread
+
+Peeling skin, large sheets
+
+Excessive sweating, night sweats, hot flashes
+
+Night sweats, debilitating
+
+Persistent fatigue, despite rest
+
+Muscle weakness, progressive
+
+Joint pain, severe, disabling
+
+Tenderness in all joints
+
+Restricted movement, complete loss
+
+Muscle wasting, significant
+
+Hand tremors, resting
+
+Numbness in both hands
+
+Tingling in both feet
+
+Speech loss, mutism
+
+Memory loss, profound, anterograde
+
+Cognitive inflexibility, perseveration
+
+Disorientation, complete
+
+Emotional withdrawal, catatonia
+
+Delusions of grandeur, extreme
+
+Visual hallucinations, grotesque
+
+Auditory hallucinations, disturbing
+
+Neologisms, making up words
+
+Eye discharge, yellow, crusty
+
+Light sensitivity, leading to migraines
+
+Visual field loss, hemianopsia
+
+Floaters, showering
+
+Redness in eyes, chronic, dry
+
+Eyelid swelling, painful
+
+Dry eyes, severe, constant tearing
+
+Blurred vision, significant
+
+Hearing loss, sensorineural
+
+Tinnitus, high-pitched screaming
+
+Earache, shooting, radiating
+
+Itchy ear, behind the earlobe
+
+Nosebleeds, recurrent, spontaneous
+
+Nasal discharge, purulent
+
+Persistent bad taste in mouth
+
+Sore throat, difficulty talking
+
+Productive cough, rust-colored
+
+Shortness of breath, paroxysmal nocturnal
+
+Wheezing, constant, loud
+
+Chest pain, sharp, non-cardiac
+
+Painful breathing, with cough
+
+Swelling in arms, unilateral
+
+Cold sensation in feet, burning
+
+Discoloration of skin, mottled
+
+Leg pain, burning, neuropathic
+
+Skin ulcers, deep, infected
+
+Skin lesions, scaly, itchy
+
+Hives, pressure-induced
+
+Blistering skin, localized
+
+Peeling skin, after sun exposure
+
+Excessive sweating, localized to face
+
+Night sweats, minor, consistent
+
+Fatigue after minimal activity
+
+Muscle pain, sharp, localized
+
+Joint swelling, asymmetrical
+
+Tenderness in hip joint
+
+Restricted movement in neck
+
+Muscle weakness in hand
+
+Hand tremors, postural
+
+Numbness in arm, unilateral
+
+Tingling in leg, unilateral
+
+Speech impediment, lisp
+
+Memory difficulties, recent conversations
+
+Cognitive impairment, mild
+
+Disorientation, episodic
+
+Emotional flatness, anhedonia
+
+Delusions of persecution, mild
+
+Visual hallucinations, shadowy figures
+
+Auditory hallucinations, murmuring
+
+Dysphasia, difficulty with language
+
+Eye strain, after screen time
+
+Light sensitivity, occasional
+
+Visual aura, zig-zag lines
+
+Floaters, few, translucent
+
+Redness in eyes, allergic
+
+Eyelid redness, inflamed
+
+Dry eyes, watery and irritated
+
+Blurred vision, general fogginess
+
+Hearing loss, mixed
+
+Tinnitus, rushing sound
+
+Earache, mild, unilateral
+
+Itchy ear, external opening
+
+Nosebleeds, recurrent, mild
+
+Nasal discharge, clear, persistent
+
+Taste alterations, metallic
+
+Sore throat, red, inflamed
+
+Cough, barking, croup-like
+
+Shortness of breath, walking up stairs
+
+Wheezing with cold air
+
+Chest pain, burning, indigestion
+
+Painful breathing, with movement of chest
+
+Swelling in legs, mild, bilateral
+
+Cold hands, bluish tint
+
+Discoloration of skin, purplish network
+
+Leg pain, aching, after prolonged standing
+
+Skin breakdown, pressure sores
+
+Skin lesions, weeping
+
+Hives, exercise-induced
+
+Blistering skin, on hands
+
+Peeling skin, after sunburn
+
+Excessive sweating, during sleep
+
+Night sweats, minimal, recurrent
+
+Chronic fatigue, requiring naps
+
+Muscle pain, cramping, nocturnal
+
+Joint swelling, in wrists
+
+Tenderness in elbow joint
+
+Restricted movement in back
+
+Muscle weakness in leg, unilateral
+
+Hand tremors, action
+
+Numbness in foot, unilateral
+
+Tingling in scalp, crawling
+
+Speech difficulties, monotone
+
+Memory problems, specific events
+
+Cognitive sluggishness
+
+Disorientation, occasional
+
+Emotional instability, mood swings
+
+Delusions of persecution, mild
+
+Visual hallucinations, shadowy figures
+
+Auditory hallucinations, murmuring
+
+Dysphasia, difficulty with language
+
+Eye strain, after screen time
+
+Light sensitivity, occasional
+
+Visual aura, zig-zag lines
+
+Floaters, few, translucent
+
+Redness in eyes, allergic
+
+Eyelid redness, inflamed
+
+Dry eyes, watery and irritated
+
+Blurred vision, general fogginess
+
+Hearing loss, mixed
+
+Tinnitus, rushing sound
+
+Earache, mild, unilateral
+
+Itchy ear, external opening
+
+Nosebleeds, recurrent, mild
+
+Nasal discharge, clear, persistent
+
+Taste alterations, metallic
+
+Sore throat, red, inflamed
+
+Cough, barking, croup-like
+
+Shortness of breath, walking up stairs
+
+Wheezing with cold air
+
+Chest pain, burning, indigestion
+
+Painful breathing, with movement of chest
+
+Swelling in legs, mild, bilateral
+
+Cold hands, bluish tint
+
+Discoloration of skin, purplish network
+
+Leg pain, aching, after prolonged standing
+
+Skin breakdown, pressure sores
+
+Skin lesions, weeping
+
+Hives, exercise-induced
+
+Blistering skin, on hands
+
+Peeling skin, after sunburn
+
+Excessive sweating, during sleep
+
+Night sweats, minimal, recurrent
+
+Chronic fatigue, requiring naps
+
+Muscle pain, cramping, nocturnal
+
+Joint swelling, in wrists
+
+Tenderness in elbow joint
+
+Restricted movement in back
+
+Muscle weakness in leg, unilateral
+
+Hand tremors, action
+
+Numbness in foot, unilateral
+
+Tingling in scalp, crawling sensation
+
+Speech difficulties, monotone voice
+
+Memory problems, forgetting specific events
+
+Cognitive sluggishness, slow thinking
+
+Disorientation, feeling lost occasionally
+
+Emotional instability, sudden mood changes
+
+Delusions of being watched, mild paranoia
+
+Visual hallucinations, seeing shadowy figures
+
+Auditory hallucinations, hearing murmuring
+
+Dysphasia, difficulty communicating
+
+Eye strain, especially after screen time
+
+Light sensitivity, bothersome at times
+
+Visual aura, seeing zig-zag lines
+
+Floaters, a few, translucent spots
+
+Redness in eyes, sometimes bloodshot
+
+Eyelid redness, inflamed and itchy
+
+Dry eyes, often watery and irritated
+
+Blurred vision, general fogginess
+
+Hearing loss, difficulty with certain frequencies
+
+Tinnitus, a constant rushing sound
+
+Earache, a mild ache in one ear
+
+Itchy ear, around the external opening
+
+Nosebleeds, light, happening often
+
+Nasal discharge, clear and persistent
+
+Taste alterations, food tasting metallic
+
+Sore throat, red and inflamed
+
+Cough, a barking sound, like croup
+
+Shortness of breath, when walking up stairs
+
+Wheezing, especially with cold air
+
+Chest pain, a burning sensation, like indigestion
+
+Painful breathing, hurts when moving my chest
+
+Swelling in legs, mild, affecting both sides
+
+Cold hands, they have a bluish tint
+
+Discoloration of skin, a purplish, web-like pattern
+
+Leg pain, an aching after standing a long time
+
+Skin breakdown, developing pressure sores
+
+Skin lesions, weeping, oozing fluid
+
+Hives, appearing after exercise
+
+Blistering skin, on the hands
+
+Peeling skin, after getting a sunburn
+
+Excessive sweating, particularly during sleep
+
+Night sweats, minimal, but happening regularly
+
+Chronic fatigue, always needing naps
+
+Muscle pain, cramping at night
+
+Joint swelling, in my wrists
+
+Tenderness in my elbow joint
+
+Restricted movement in my back
+
+Muscle weakness in one leg
+
+Hand tremors, especially when trying to do something
+
+Numbness in one foot
+
+Tingling in my scalp, like bugs crawling
+
+Speech difficulties, I speak in a monotone
+
+Memory problems, specific memories are hard to recall
+
+Cognitive sluggishness, my brain feels slow
+
+Disorientation, feeling lost sometimes
+
+Emotional instability, sudden bursts of emotion
+
+Delusions of persecution, I feel mildly targeted
+
+Visual hallucinations, seeing shadowy figures moving
+
+Auditory hallucinations, hearing faint murmuring
+
+Dysphasia, trouble expressing myself with words
+
+Eye strain, from looking at my phone
+
+Light sensitivity, minor annoyance
+
+Visual aura, seeing shimmery lines
+
+Floaters, just a couple, barely noticeable
+
+Redness in my eyes, from allergies
+
+Eyelid redness, inflamed and tender
+
+Dry eyes, they feel watery but are irritated
+
+Blurred vision, everything looks a bit hazy
+
+Hearing loss, a combination of types
+
+Tinnitus, a soft rushing sound
+
+Earache, a dull ache in one ear
+
+Itchy ear, the outer part of my ear
+
+Nosebleeds, frequent but not heavy
+
+Nasal discharge, clear and constant
+
+Taste alterations, food has a weird metallic taste
+
+Sore throat, my throat feels red and inflamed
+
+Cough, a dry, harsh bark
+
+Shortness of breath, when walking up a slight incline
+
+Wheezing, when it's cold outside
+
+Chest pain, feels like indigestion after eating
+
+Painful breathing, hurts when I move my ribs
+
+Swelling in legs, a bit swollen in both
+
+Cold hands, they look a little blue sometimes
+
+Discoloration of skin, like a purple net on my legs
+
+Leg pain, an ache after standing for a while
+
+Skin breakdown, areas of skin becoming raw
+
+Skin lesions, weeping sores
+
+Hives, popping up after I exercise
+
+Blistering skin, small blisters on my hands
+
+Peeling skin, after being in the sun
+
+Excessive sweating, sweating even when I'm sleeping
+
+Night sweats, minimal but every now and then
+
+Chronic fatigue, I need to nap most days
+
+Muscle pain, cramping intensely at night
+
+Joint swelling, in my knuckles
+
+Tenderness in my shoulder
+
+Restricted movement in my neck
+
+Muscle weakness in one arm
+
+Hand tremors, my hands shake when I reach for things
+
+Numbness in half of my foot
+
+Tingling in my scalp, a mild tingling feeling
+
+Speech difficulties, I speak very slowly
+
+Memory problems, I forget what I was about to say
+
+Cognitive sluggishness, my thoughts are slow
+
+Disorientation, I lose track of where I am sometimes
+
+Emotional instability, I cry easily
+
+Delusions of persecution, thinking people are out to get me
+
+Visual hallucinations, seeing things that aren't there
+
+Auditory hallucinations, hearing voices
+
+Dysphasia, difficulty speaking clearly
+
+Eye strain, from reading for long periods
+
+Light sensitivity, makes me squint
+
+Visual aura, seeing sparkly lights
+
+Floaters, a few, dark specks
+
+Redness in my eyes, just a bit red
+
+Eyelid inflammation, red and swollen eyelids
+
+Dry eyes, they feel scratchy
+
+Blurred vision, things are not sharp
+
+Hearing loss, hard to hear high notes
+
+Tinnitus, a constant hum
+
+Earache, throbbing pain in both ears
+
+Itchy inner ear, can't reach the itch
+
+Nosebleeds, heavy, needing tissues
+
+Nasal discharge, thick and colored
+
+Taste alterations, everything tastes bland
+
+Sore throat, sharp pain when I swallow
+
+Cough, a deep, chesty cough
+
+Shortness of breath, after a short walk
+
+Wheezing, a whistling sound when I breathe
+
+Chest pain, a heavy feeling on my chest
+
+Painful breathing, a sharp pain when I take a deep breath
+
+Swelling in legs, both legs are quite swollen
+
+Cold hands, always cold to the touch
+
+Discoloration of skin, patchy redness
+
+Leg pain, a burning sensation down my leg
+
+Skin breakdown, open sores that won't heal
+
+Skin lesions, dry, flaky patches
+
+Hives, itchy bumps all over
+
+Blistering skin, large blisters appearing
+
+Peeling skin, large areas peeling off
+
+Excessive sweating, I sweat profusely at night
+
+Night sweats, soaking my clothes
+
+Chronic fatigue, I feel exhausted all the time
+
+Muscle pain, a deep ache in my muscles
+
+Joint swelling, my big joints are swollen
+
+Tenderness in my hip
+
+Restricted movement in my knee
+
+Muscle weakness in my hand, I drop things
+
+Hand tremors, when I'm trying to hold something still
+
+Numbness in my whole foot
+
+Tingling in my arm, pins and needles
+
+Speech difficulties, I sometimes slur my words
+
+Memory problems, forgetting people's names
+
+Cognitive sluggishness, my brain feels foggy
+
+Disorientation, losing my way in familiar places
+
+Emotional instability, I get very angry easily
+
+Delusions of persecution, I believe people are conspiring against me
+
+Visual hallucinations, seeing patterns on the walls
+
+Auditory hallucinations, hearing whispers
+
+Dysphasia, trouble finding the right words
+
+Eye strain, after using my computer for hours
+
+Light sensitivity, I need to wear sunglasses indoors
+
+Visual aura, blind spots that move
+
+Floaters, looking like threads
+
+Redness in my eyes, constant irritation
+
+Eyelid drooping, one eyelid hangs lower
+
+Dry eyes, they constantly water
+
+Blurred vision, my vision is consistently fuzzy
+
+Hearing loss, I can't hear conversations well
+
+Tinnitus, a constant whistling
+
+Earache, a dull pressure in my ears
+
+Itchy ears, inside my ears
+
+Nosebleeds, spontaneous and unpredictable
+
+Nasal discharge, colored and thick
+
+Taste alterations, food tastes rotten
+
+Sore throat, my throat feels raw
+
+Cough, a dry, unproductive cough that won't go away
+
+Shortness of breath, even when resting
+
+Wheezing, a loud, constant wheeze
+
+Chest pain, a sharp, stabbing pain
+
+Painful breathing, hurts when I breathe in deeply
+
+Swelling in legs, one leg is much bigger than the other
+
+Cold hands, they turn white and then blue
+
+Discoloration of skin, blue patches on my skin
+
+Leg pain, a tingling, electric shock feeling
+
+Skin breakdown, large, deep ulcers
+
+Skin lesions, crusty patches
+
+Hives, large, swollen areas
+
+Blistering skin, fluid-filled sacs
+
+Peeling skin, my skin is constantly flaking
+
+Excessive sweating, I'm always sweating
+
+Night sweats, so heavy I need to change sheets
+
+Chronic fatigue, can't get out of bed
+
+Muscle pain, severe muscle tenderness
+
+Joint swelling, all my joints are swollen and painful
+
+Tenderness in my jaw
+
+Restricted movement in my spine
+
+Muscle weakness in my leg, I can't lift my foot
+
+Hand tremors, my hands shake uncontrollably
+
+Numbness in my entire body
+
+Tingling in my whole body
+
+Speech loss, I can't speak at all
+
+Memory problems, I can't remember anything new
+
+Cognitive sluggishness, I can't think clearly
+
+Disorientation, I don't know who I am
+
+Emotional instability, I switch emotions rapidly
+
+Delusions of persecution, thinking the government is after me
+
+Visual hallucinations, seeing scary things
+
+Auditory hallucinations, hearing screaming
+
+Dysphasia, difficulty understanding language
+
+Eye irritation, feels like something is in my eye
+
+Light sensitivity, excruciatingly painful
+
+Visual aura, loss of half my vision
+
+Floaters, lots of them, like a shower
+
+Redness in my eyes, severe and painful
+
+Eyelid swelling, my eyelids are very swollen
+
+Dry eyes, severe, constant discomfort
+
+Blurred vision, complete loss of clarity
+
+Hearing loss, I'm completely deaf in one ear
+
+Tinnitus, a constant high-pitched squeal
+
+Earache, a piercing pain in my ear
+
+Itchy ears, deep inside my ears
+
+Nosebleeds, very heavy, can't stop them
+
+Nasal discharge, foul-smelling
+
+Taste alterations, food tastes like dirt
+
+Sore throat, extreme pain when I swallow
+
+Cough, a very deep and wet cough with lots of phlegm
+
+Shortness of breath, feels like I'm drowning
+
+Wheezing, my chest sounds like a broken harmonica
+
+Chest pain, a constant, dull ache in my chest
+
+Painful breathing, every breath is agonizing
+
+Swelling in legs, both legs are extremely swollen
+
+Cold hands, they are ice cold all the time
+
+Discoloration of skin, widespread rash
+
+Leg pain, an unbearable throbbing in my legs
+
+Skin breakdown, large areas of exposed flesh
+
+Skin lesions, weeping and infected
+
+Hives, covering my entire body
+
+Blistering skin, large, raw areas
+
+Peeling skin, my skin is falling off in sheets
+
+Excessive sweating, constant, drenching sweat
+
+Night sweats, waking up drenched every night
+
+Chronic fatigue, I'm too tired to move
+
+Muscle pain, excruciating, all over my body
+
+Joint swelling, my joints are huge and immobile
+
+Tenderness in my feet
+
+Restricted movement in my shoulders
+
+Muscle weakness, I can't move my limbs
+
+Hand tremors, my hands shake violently
+
+Numbness, loss of all feeling
+
+Tingling, a burning, prickling sensation
+
+Speech difficulty, I can't get words out
+
+Memory loss, total amnesia
+
+Cognitive impairment, can't understand anything
+
+Disorientation, I don't know where I am
+
+Emotional withdrawal, I feel nothing
+
+Delusions of persecution, I think everyone is trying to harm me
+
+Visual hallucinations, seeing terrifying creatures
+
+Auditory hallucinations, hearing screaming voices
+
+Dysphasia, I can't understand anything people say
+
+Eye irritation, severe burning sensation
+
+Light sensitivity, I have to stay in darkness
+
+Visual aura, temporary blindness
+
+Floaters, so many I can barely see
+
+Redness in my eyes, constantly inflamed
+
+Eyelid swelling, my eyelids are swollen shut
+
+Dry eyes, my eyes feel like sandpaper
+
+Blurred vision, completely obscured vision
+
+Hearing loss, completely deaf
+
+Tinnitus, a constant, deafening roar
+
+Earache, a dull, constant ache
+
+Itchy ears, constantly scratching my ears
+
+Nosebleeds, bleeding almost constantly
+
+Nasal discharge, very thick and colored green
+
+Taste alterations, everything tastes like chemicals
+
+Sore throat, constant, raw pain
+
+Cough, a persistent, dry, irritating cough
+
+Shortness of breath, just sitting here
+
+Wheezing, a very high-pitched sound
+
+Chest pain, a sharp, shooting pain that comes and goes
+
+Painful breathing, feels like someone is sitting on my chest
+
+Swelling in my hands, I can't make a fist
+
+Cold hands, numb and cold
+
+Discoloration of skin, pale and clammy
+
+Leg pain, constant dull ache
+
+Skin breakdown, red, irritated patches
+
+Skin lesions, small, red bumps
+
+Hives, itchy spots that move around
+
+Blistering skin, small, clear blisters
+
+Peeling skin, a fine, powdery peel
+
+Excessive sweating, only on my forehead
+
+Night sweats, just a little dampness
+
+Fatigue, I'm tired even after sleeping
+
+Muscle pain, general soreness
+
+Joint swelling, minimal, barely noticeable
+
+Tenderness in my fingers
+
+Restricted movement in my wrist
+
+Muscle weakness in my foot, I trip easily
+
+Hand tremors, when I'm tired
+
+Numbness in my pinky toe
+
+Tingling in my big toe
+
+Speech difficulties, I sometimes forget words
+
+Memory problems, difficulty remembering numbers
+
+Cognitive impairment, sometimes I zone out
+
+Disorientation, sometimes I feel a bit fuzzy
+
+Emotional flatness, I don't feel much
+
+Delusions, I have some strange beliefs
+
+Visual illusions, things look distorted
+
+Auditory illusions, sounds seem louder
+
+Dysphasia, I sometimes mix up words
+
+Eye strain, from staring at my phone too long
+
+Light sensitivity, sunlight bothers my eyes
+
+Visual aura, temporary blind spot
+
+Floaters, a few tiny dots
+
+Redness in my eyes, from being tired
+
+Eyelid twitch, constant, annoying twitch
+
+Dry eyes, sometimes feel gritty
+
+Blurred vision, slight blurring in one eye
+
+Hearing loss, I miss some words in conversations
+
+Tinnitus, a faint ringing in one ear
+
+Earache, a sharp stab of pain in one ear
+
+Itchy ear, right behind my ear
+
+Nosebleeds, when it's dry outside
+
+Nasal discharge, just clear watery stuff
+
+Taste alterations, food tastes a bit off
+
+Sore throat, mild irritation
+
+Cough, a persistent dry cough that tickles
+
+Shortness of breath, when I talk too much
+
+Wheezing, after I run
+
+Chest pain, a mild ache in the center of my chest
+
+Painful breathing, hurts when I stretch
+
+Swelling in my feet, especially after standing all day
+
+Cold hands, slightly chilly
+
+Discoloration of skin, a bit flushed
+
+Leg pain, a dull ache in my thighs
+
+Skin breakdown, small red bumps
+
+Skin lesions, rough patches
+
+Hives, from stress
+
+Blistering skin, small, itchy blisters
+
+Peeling skin, after a long shower
+
+Excessive sweating, when I'm nervous
+
+Night sweats, very rare, barely noticeable
+
+Fatigue, I feel run down
+
+Muscle pain, soreness after working out
+
+Joint swelling, one joint is slightly puffy
+
+Tenderness in my big toe
+
+Restricted movement in my jaw
+
+Muscle weakness in my calf, it tires easily
+
+Hand tremors, when I'm anxious
+
+Numbness in my index finger
+
+Tingling in my little finger
+
+Speech difficulties, I sometimes stumble over words
+
+Memory problems, I forget why I walked into a room
+
+Cognitive impairment, sometimes I feel scattered
+
+Disorientation, I sometimes forget the day
+
+Emotional flatness, I feel a bit numb
+
+Delusions, I have some unusual thoughts
+
+Visual illusions, seeing shadows move
+
+Auditory illusions, sounds seem muffled
+
+Dysphasia, I sometimes struggle to form sentences
+
+Eye strain, after watching TV
+
+Light sensitivity, bright indoor lights bother me
+
+Visual aura, shimmering in my vision
+
+Floaters, a string of them
+
+Redness in my eyes, just a little pink
+
+Eyelid swelling, minor puffiness
+
+Dry eyes, feeling of sand in my eyes
+
+Blurred vision, occasionally when I wake up
+
+Hearing loss, I struggle with soft voices
+
+Tinnitus, a low hum in both ears
+
+Earache, a feeling of fullness in my ear
+
+Itchy ear, inside the canal
+
+Nosebleeds, after blowing my nose
+
+Nasal discharge, clear and runny
+
+Taste alterations, food tastes bland sometimes
+
+Sore throat, when I wake up
+
+Cough, a productive cough with white phlegm
+
+Shortness of breath, when I talk a lot
+
+Wheezing, when I lie down
+
+Chest pain, a sensation of pressure in my chest
+
+Painful breathing, hurts when I yawn
+
+Swelling in my fingers, rings feel tight
+
+Cold hands, very sensitive to cold
+
+Discoloration of skin, slightly yellowish
+
+Leg pain, muscle cramps after exercise
+
+Skin breakdown, dry, cracked skin
+
+Skin lesions, raised, red patches
+
+Hives, from a new detergent
+
+Blistering skin, from friction
+
+Peeling skin, after showering
+
+Excessive sweating, during meals
+
+Night sweats, waking up a little warm
+
+Fatigue, I'm perpetually tired
+
+Muscle pain, stiffness after sitting
+
+Joint swelling, fingers look puffy
+
+Tenderness in my wrist
+
+Restricted movement in my elbow
+
+Muscle weakness in my shoulder, I can't lift heavy things
+
+Hand tremors, when I'm holding a cup
+
+Numbness in my ring finger
+
+Tingling in my middle finger
+
+Speech difficulties, I have trouble articulating
+
+Memory problems, remembering directions
+
+Cognitive impairment, sometimes I feel slow
+
+Disorientation, I get confused by simple things
+
+Emotional flatness, I don't feel highs or lows
+
+Delusions, I have some peculiar ideas
+
+Visual illusions, faces look different
+
+Auditory illusions, voices seem distant
+
+Dysphasia, I find it hard to respond quickly
+
+Eye strain, after a day of work
+
+Light sensitivity, glares bother me
+
+Visual aura, colored spots
+
+Floaters, a single large one
+
+Redness in my eyes, just dry looking
+
+Eyelid twitch, lower eyelid
+
+Dry eyes, feel like they're burning
+
+Blurred vision, objects seem wavy
+
+Hearing loss, I can't hear background noise
+
+Tinnitus, a distinct hum in one ear
+
+Earache, a constant pressure
+
+Itchy ear, just behind the earlobe
+
+Nosebleeds, after vigorous exercise
+
+Nasal discharge, clear and profuse
+
+Taste alterations, food tastes different suddenly
+
+Sore throat, swollen glands
+
+Cough, a wet cough with clear phlegm
+
+Shortness of breath, with talking loudly
+
+Wheezing, when I'm stressed
+
+Chest pain, a sharp, quick pain
+
+Painful breathing, hurts when I laugh
+
+Swelling in my ankles, especially in the evening
+
+Cold hands, even when it's warm
+
+Discoloration of skin, pale patches
+
+Leg pain, restless legs in the evening
+
+Skin breakdown, areas of redness and scaling
+
+Skin lesions, small, clear fluid-filled bumps
+
+Hives, from bug bites
+
+Blistering skin, on my arms
+
+Peeling skin, after a hot bath
+
+Excessive sweating, during night terrors
+
+Night sweats, feeling overheated at night
+
+Fatigue, I'm exhausted by midday
+
+Muscle pain, dull ache in my back
+
+Joint swelling, fingers look like sausages
+
+Tenderness in my knee
+
+Restricted movement in my hip
+
+Muscle weakness in my back, I slouch
+
+Hand tremors, when I'm cold
+
+Numbness in my little toe
+
+Tingling in my ring toe
+
+Speech difficulties, I speak too fast sometimes
+
+Memory problems, I forget recent events
+
+Cognitive impairment, sometimes I can't focus
+
+Disorientation, I feel out of it
+
+Emotional instability, I cry at commercials
+
+Delusions, I have some fixed, false beliefs
+
+Visual illusions, people's faces look distorted
+
+Auditory illusions, sounds seem to echo
+
+Dysphasia, I have trouble understanding jokes
+
+Eye strain, after writing for a long time
+
+Light sensitivity, makes me wear a hat
+
+Visual aura, flashes of light in my peripheral vision
+
+Floaters, like little worms
+
+Redness in my eyes, chronic dry eye
+
+Eyelid swelling, feels heavy
+
+Dry eyes, constant urge to blink
+
+Blurred vision, when I try to read small print
+
+Hearing loss, I can't hear high-pitched sounds
+
+Tinnitus, a low buzzing sound
+
+Earache, a burning sensation in my ear
+
+Itchy ear, feeling of something crawling
+
+Nosebleeds, after vigorous sneezing
+
+Nasal discharge, thick and stringy
+
+Taste alterations, food tastes sour
+
+Sore throat, constant dryness
+
+Cough, a hacking cough that sounds like a seal
+
+Shortness of breath, when lying flat
+
+Wheezing, constant, low-pitched
+
+Chest pain, a burning feeling in my esophagus
+
+Painful breathing, hurts when I bend over
+
+Swelling in my feet, both feet are swollen and painful
+
+Cold hands, very sensitive to touch
+
+Discoloration of skin, mottled purple and white
+
+Leg pain, shooting pains down my legs
+
+Skin breakdown, deep cracks in my skin
+
+Skin lesions, red, scaly plaques
+
+Hives, from certain foods
+
+Blistering skin, on my legs
+
+Peeling skin, after a fever
+
+Excessive sweating, cold sweats
+
+Night sweats, dripping sweat at night
+
+Fatigue, I'm constantly drained
+
+Muscle pain, widespread pain that moves
+
+Joint swelling, swollen ankles and wrists
+
+Tenderness in my foot arch
+
+Restricted movement in my wrist, I can't turn it fully
+
+Muscle weakness in my hands, I can't open jars
+
+Hand tremors, when I'm trying to be precise
+
+Numbness in my heel
+
+Tingling in my sole of my foot
+
+Speech difficulties, I speak very quietly
+
+Memory problems, I forget conversations
+
+Cognitive impairment, I struggle with complex tasks
+
+Disorientation, I feel like I'm in a dream
+
+Emotional withdrawal, I don't feel connected
+
+Delusions, I believe in things that aren't real
+
+Visual illusions, objects appear larger
+
+Auditory illusions, sounds seem far away
+
+Dysphasia, I have trouble writing
+
+Eye strain, after doing puzzles
+
+Light sensitivity, fluorescent lights bother me
+
+Visual aura, flashes in my central vision
+
+Floaters, a cloud of them
+
+Redness in my eyes, from crying
+
+Eyelid swelling, painful and red
+
+Dry eyes, my eyes feel sticky
+
+Blurred vision, difficulty seeing faces
+
+Hearing loss, I can't hear phones ringing
+
+Tinnitus, a consistent ringing in my head
+
+Earache, a sharp, piercing pain
+
+Itchy ear, just outside the ear opening
+
+Nosebleeds, light, from both nostrils
+
+Nasal discharge, green and thick
+
+Taste alterations, everything tastes salty
+
+Sore throat, feeling of a lump in my throat
+
+Cough, a persistent, forceful cough
+
+Shortness of breath, after a burst of activity
+
+Wheezing, loud and noticeable
+
+Chest pain, feels like a weight on my chest
+
+Painful breathing, hurts when I sneeze
+
+Swelling in my hands, I can't bend my fingers
+
+Cold hands, white and waxy looking
+
+Discoloration of skin, red blotches
+
+Leg pain, an unbearable ache in my calves
+
+Skin breakdown, raw, weeping areas
+
+Skin lesions, small, discolored bumps
+
+Hives, spreading rapidly
+
+Blistering skin, large, fluid-filled blisters
+
+Peeling skin, shedding layers of skin
+
+Excessive sweating, on my palms
+
+Night sweats, mild, every few nights
+
+Fatigue, I'm completely wiped out
+
+Muscle pain, chronic, aching muscles
+
+Joint swelling, my joints feel inflamed
+
+Tenderness in my shoulder blade
+
+Restricted movement in my ankle, hard to flex
+
+Muscle weakness in my legs, they buckle
+
+Hand tremors, fine tremors when I write
+
+Numbness in my toes, all of them
+
+Tingling in my calves
+
+Speech difficulties, I mumble sometimes
+
+Memory problems, I forget appointments
+
+Cognitive impairment, I struggle with simple tasks
+
+Disorientation, I feel confused often
+
+Emotional withdrawal, I isolate myself
+
+Delusions, I hear voices when no one is there
+
+Visual illusions, faces look scary
+
+Auditory illusions, sounds seem distorted
+
+Dysphasia, I have difficulty expressing emotions verbally
+
+Eye strain, after playing video games
+
+Light sensitivity, streetlights are too bright
+
+Visual aura, colored halos around lights
+
+Floaters, constantly in my vision
+
+Redness in my eyes, feels like sandpaper
+
+Eyelid swelling, very itchy eyelids
+
+Dry eyes, constant discomfort and burning
+
+Blurred vision, everything looks foggy
+
+Hearing loss, I can't follow conversations in groups
+
+Tinnitus, a persistent high-pitched hum
+
+Earache, a dull, constant ache behind my ear
+
+Itchy ear, deep within the ear canal
+
+Nosebleeds, spontaneous and heavy
+
+Nasal discharge, yellow and thick
+
+Taste alterations, food tastes bitter
+
+Sore throat, constant pain when swallowing
+
+Cough, a violent, uncontrollable cough
+
+Shortness of breath, even at rest
+
+Wheezing, accompanied by a cough
+
+Chest pain, a crushing sensation spreading to my arm
+
+Painful breathing, hurts to take a deep breath
+
+Swelling in my face, my cheeks look puffy
+
+Cold hands, they feel like blocks of ice
+
+Discoloration of skin, blue fingertips
+
+Leg pain, constant burning and tingling
+
+Skin breakdown, large, open wounds
+
+Skin lesions, oozing, crusty lesions
+
+Hives, itchy and raised, appearing randomly
+
+Blistering skin, on my face
+
+Peeling skin, my skin is constantly itchy and peeling
+
+Excessive sweating, cold and clammy sweat
+
+Night sweats, waking up drenched and cold
+
+Fatigue, I have no energy at all
+
+Muscle pain, severe and debilitating
+
+Joint swelling, every joint feels stiff and swollen
+
+Tenderness in my collarbone
+
+Restricted movement in my knee, can't bend it
+
+Muscle weakness, I can't stand up on my own
+
+Hand tremors, my hands shake when I'm reaching for something
+
+Numbness in my chest
+
+Tingling in my scalp, like pins and needles
+
+Speech difficulties, I can't articulate anything clearly
+
+Memory problems, I forget who people are
+
+Cognitive impairment, I can't process information
+
+Disorientation, I don't know what's real
+
+Emotional withdrawal, I feel detached from everything
+
+Delusions, I believe I'm being controlled
+
+Visual illusions, distorted faces looking monstrous
+
+Auditory illusions, hearing distorted music
+
+Dysphasia, I can't formulate thoughts into words
+
+Eye irritation, constant redness and burning
+
+Light sensitivity, makes my head throb
+
+Visual aura, kaleidoscope vision
+
+Floaters, a dense field of moving spots
+
+Redness in my eyes, with discharge
+
+Eyelid swelling, extremely painful
+
+Dry eyes, my eyes feel perpetually dry and irritated
+
+Blurred vision, total blurriness
+
+Hearing loss, I can only hear very loud sounds
+
+Tinnitus, a constant, deafening roar in my head
+
+Earache, a dull, nagging pain in both ears
+
+Itchy ear, constant, uncontrollable itching
+
+Nosebleeds, severe, constant bleeding
+
+Nasal discharge, bloody and thick
+
+Taste alterations, food has no taste
+
+Sore throat, constant, raw feeling
+
+Cough, a deep, raspy cough with green phlegm
+
+Shortness of breath, even turning over in bed
+
+Wheezing, loud enough to wake others
+
+Chest pain, a sharp, searing pain
+
+Painful breathing, hurts to exhale
+
+Swelling in my entire body, generalized edema
+
+Cold hands, turning purple and numb
+
+Discoloration of skin, a patchy, mottled appearance
+
+Leg pain, relentless, severe burning pain
+
+Skin breakdown, large areas of necrosis
+
+Skin lesions, deep, painful ulcers
+
+Hives, covering my entire body, unbearably itchy
+
+Blistering skin, large, oozing blisters
+
+Peeling skin, my skin is falling off in sheets
+
+Excessive sweating, drenching night sweats
+
+Night sweats, waking up soaked and shivering
+
+Fatigue, I'm bedridden with exhaustion
+
+Muscle pain, excruciating and widespread
+
+Joint swelling, my joints are completely immobilized
+
+Tenderness in my spine
+
+Restricted movement, I can't move anything
+
+Muscle weakness, I'm completely paralyzed
+
+Hand tremors, my hands convulse uncontrollably
+
+Numbness, complete lack of sensation everywhere
+
+Tingling, a pervasive, burning numbness
+
+Speech loss, I can only make sounds
+
+Memory loss, complete and irreversible
+
+Cognitive impairment, profound, I can't recognize anyone
+
+Disorientation, I am completely lost and unaware
+
+Emotional withdrawal, I feel absolutely nothing
+
+Delusions, I am convinced I am a different person
+
+Visual hallucinations, terrifying and vivid
+
+Auditory hallucinations, constant, terrifying voices
+
+Dysphasia, I cannot comprehend any language
+
+Eye irritation, constant, severe pain
+
+Light sensitivity, any light causes intense pain
+
+Visual aura, complete loss of vision periodically
+
+Floaters, a dense, constant visual obstruction
+
+Redness in my eyes, constantly inflamed and weeping
+
+Eyelid swelling, my eyes are swollen shut and painful
+
+Dry eyes, my eyes feel like they're drying out completely
+
+Blurred vision, my vision is nothing but a blur
+
+Hearing loss, total and permanent deafness
+
+Tinnitus, a constant, unbearable piercing noise
+
+Earache, a throbbing, agonizing pain in my ears
+
+Itchy ear, constant, relentless, deep itching
+
+Nosebleeds, continuous, uncontrollable bleeding
+
+Nasal discharge, thick, purulent, and bloody
+
+Taste alterations, food tastes putrid or metallic
+
+Sore throat, constant, severe, burning pain
+
+Cough, a deep, painful cough with significant phlegm
+
+Shortness of breath, even thinking about moving
+
+Wheezing, so loud it's hard to hear anything else
+
+Chest pain, a constant, crushing, unbearable pain
+
+Painful breathing, feels like knives in my lungs
+
+Swelling in my abdomen, distended and painful
+
+Cold hands, numb and painful with purple discoloration
+
+Discoloration of skin, areas turning black and necrotic
+
+Leg pain, constant, burning, electric shock pain
+
+Skin breakdown, widespread, deep, infected ulcers
+
+Skin lesions, large, weeping, painful masses
+
+Hives, covering my entire body, excruciatingly itchy
+
+Blistering skin, widespread, raw, and bleeding
+
+Peeling skin, my entire body is shedding skin
+
+Excessive sweating, uncontrollable, drenching
+
+Night sweats, soaking through everything multiple times
+
+Fatigue, I'm completely unresponsive due to exhaustion
+
+Muscle pain, debilitating, agonizing, all-consuming
+
+Joint swelling, my joints are huge, red, and stiff
+
+Tenderness in my ribs
+
+Restricted movement in all my joints, rigid
+
+Muscle weakness, completely flaccid, unable to move
+
+Hand tremors, continuous, violent shaking
+
+Numbness, a profound and complete loss of sensation
+
+Tingling, a constant, intense burning and pins-and-needles
+
+Speech loss, completely unable to produce any sounds
+
+Memory loss, no recollection of my past
+
+Cognitive impairment, complete inability to reason
+
+Disorientation, I live in a state of perpetual confusion
+
+Emotional withdrawal, I am completely disengaged
+
+Delusions, I believe I am being tortured
+
+Visual hallucinations, constant, terrifying visions
+
+Auditory hallucinations, non-stop, threatening voices
+
+Dysphasia, I cannot process any linguistic input
+
+Eye irritation, agonizing, relentless pain
+
+Light sensitivity, extreme, incapacitating pain from light
+
+Visual aura, persistent, blinding flashes
+
+Floaters, completely obscuring vision
+
+Redness in my eyes, severe, constant, bloody
+
+Eyelid swelling, my eyes are fused shut from swelling
+
+Dry eyes, my eyes feel like they are desiccating
+
+Blurred vision, a complete whiteout of vision
+
+Hearing loss, total, irreversible deafness
+
+Tinnitus, a constant, unbearable, screaming noise
+
+Earache, a relentless, burning, deep pain
+
+Itchy ear, constant, maddening itching deep in the ear
+
+Nosebleeds, ceaseless, gushing bleeding
+
+Nasal discharge, purulent, bloody, and copious
+
+Taste alterations, every taste is agonizing or revolting
+
+Sore throat, a constant, burning, raw, unbearable pain
+
+Cough, a deep, rattling, painful cough that never stops
+
+Shortness of breath, gasping for every breath
+
+Wheezing, a constant, loud, agonizing wheeze
+
+Chest pain, a crushing, burning, suffocating pain
+
+Painful breathing, every breath feels like tearing
+
+Swelling in my neck, making it hard to breathe
+
+Cold hands, blue, swollen, and unresponsive
+
+Discoloration of skin, widespread darkening and hardening
+
+Leg pain, constant, throbbing, excruciating
+
+Skin breakdown, full-thickness, non-healing wounds
+
+Skin lesions, rapidly spreading, painful, disfiguring
+
+Hives, covering my entire body, excruciating, blistering
+
+Blistering skin, entire body covered in raw, weeping blisters
+
+Peeling skin, continuous, painful sloughing of skin
+
+Excessive sweating, continuous, cold, drenching
+
+Night sweats, non-stop, drenching, incapacitating
+
+Fatigue, I am in a vegetative state from exhaustion
+
+Muscle pain, total body agony, paralyzing
+
+Joint swelling, joints are locked and deformed
+
+Tingling sensation, a mild prickling on my skin
+
+Speech difficulties, I sometimes lose my train of thought
+
+Memory problems, I forget why I entered a room
+
+Cognitive impairment, a slight difficulty with multi-tasking
+
+Disorientation, I occasionally feel a bit 'out of it'
+
+Emotional flatness, a general lack of strong feelings
+
+Delusions, I have a few odd beliefs that don't make sense
+
+Visual illusions, colors seem slightly off sometimes
+
+Auditory illusions, faint music in the background
+
+Dysphasia, I sometimes pause to find the right word
+
+Eye irritation, a slight itchiness in my eyes
+
+Light sensitivity, bright screens bother me after a while
+
+Visual aura, small, shimmering dots in my vision
+
+Floaters, a single, tiny, dark speck that drifts
+
+Redness in my eyes, just a hint of pink
+
+Eyelid swelling, a tiny bit of puffiness in the mornings
+
+Dry eyes, they feel a little tired and heavy
+
+Blurred vision, transiently after looking away from a screen
+
+Hearing loss, I sometimes ask people to repeat themselves
+
+Tinnitus, a very soft, high-pitched ringing that comes and goes
+
+Earache, a quick, dull throb in one ear
+
+Itchy ear, a mild tickle in my earlobe
+
+Nosebleeds, very rarely, just a few drops
+
+Nasal discharge, occasional clear drips, especially in the cold
+
+Taste alterations, food sometimes tastes a bit less flavorful
+
+Sore throat, a slight scratchiness in the back of my throat
+
+Cough, a gentle, clearing cough
+
+Shortness of breath, when rushing up a flight of stairs
+
+Wheezing, very mild, only when breathing deeply after exertion
+
+Chest pain, a momentary, dull pressure in the center
+
+Painful breathing, a faint discomfort on deep inhalation
+
+Swelling in my feet, minimal, only at the end of a long day
+
+Cold hands, they can get a little cool to the touch
+
+Discoloration of skin, a slightly paler complexion than usual
+
+Leg pain, a vague ache in my calves after a long walk
+
+Skin breakdown, tiny, almost invisible cracks on my knuckles
+
+Skin lesions, small, flat, reddish areas
+
+Hives, tiny, isolated spots that disappear quickly
+
+Blistering skin, very small, clear bubbles from rubbing
+
+Peeling skin, almost imperceptible flaking on my nose
+
+Excessive sweating, just a little dampness under my arms when stressed
+
+Night sweats, so mild I'm not even sure if they happen
+
+Fatigue, I just feel a bit sleepy sometimes
+
+Muscle pain, a slight stiffness after prolonged sitting
+
+Joint swelling, my pinky finger looks a tiny bit swollen
+
+Tenderness in my big toe, after hitting it
+
+Restricted movement in my thumb, a small limitation
+
+Muscle weakness in my grip, opening jars is a tad harder
+
+Hand tremors, a barely noticeable quiver when very focused
+
+Numbness in a single fingertip for a brief moment
+
+Tingling in a patch on my thigh, comes and goes
+
+Speech difficulties, I occasionally transpose sounds
+
+Memory problems, I struggle with remembering names of distant acquaintances
+
+Cognitive impairment, sometimes I have difficulty switching tasks quickly
+
+Disorientation, a fleeting sense of unreality
+
+Emotional instability, a slight increase in tearfulness during sad movies
+
+Delusions, a single, harmless, quirky belief
+
+Visual illusions, seeing faces in abstract patterns
+
+Auditory illusions, misinterpreting distant sounds as voices
+
+Dysphasia, a momentary difficulty with rhyming words
+
+Eye irritation, a sensation like an eyelash is in my eye
+
+Light sensitivity, feeling the need to dim the lights slightly
+
+Visual aura, a temporary sparkly patch in my peripheral vision
+
+Floaters, a translucent curve that drifts in and out
+
+Redness in my eyes, a faint, barely visible redness near the corner
+
+Eyelid twitch, a very subtle, infrequent jump of the lower lid
+
+Dry eyes, a sensation of mild dryness after waking up
+
+Blurred vision, a momentary fuzziness when tired
+
+Hearing loss, slight muffling of very soft background noises
+
+Tinnitus, an intermittent, low-level static sound
+
+Earache, a very fleeting, sharp pang in the ear
+
+Itchy ear, a light tickle inside the outer ear
+
+Nosebleeds, a tiny spot of blood when blowing my nose hard
+
+Nasal discharge, clear, thin, and infrequent
+
+Taste alterations, food sometimes lacks its usual zest
+
+Sore throat, a mild, fleeting irritation in the upper throat
+
+Cough, a gentle, throat-clearing sound
+
+Shortness of breath, a slight gasp after heavy laughter
+
+Wheezing, an almost inaudible whistle when deeply relaxed
+
+Chest pain, a fleeting, almost imperceptible twinge
+
+Painful breathing, a momentary Catch in my breath
+
+Swelling in my ankles, a very subtle fullness after extended standing
+
+Cold hands, they feel a bit cool in a chilly room
+
+Discoloration of skin, a very faint blueness under the fingernails
+
+Leg pain, a minor soreness in the shins after a run
+
+Skin breakdown, microscopic cracks on my heels
+
+Skin lesions, tiny, almost unnoticeable red pinpricks
+
+Hives, one or two tiny, raised bumps that quickly vanish
+
+Blistering skin, minuscule bubbles from rubbing against clothes
+
+Peeling skin, a barely discernible exfoliation on my hands
+
+Excessive sweating, a faint sheen on my forehead during intense thought
+
+Night sweats, so mild I'm not entirely sure they happened
+
+Fatigue, a slight dip in energy mid-afternoon
+
+Muscle pain, a general feeling of having used muscles slightly more than usual
+
+Joint swelling, my big knuckle looks a little puffy
+
+Tenderness in my wrist, after using a mouse for too long
+
+Restricted movement in my neck, a slight stiffness when turning my head
+
+Muscle weakness in my bicep, slightly less strength during a workout
+
+Hand tremors, a subtle vibration when holding objects out
+
+Numbness in a small patch on my back, briefly
+
+Tingling in my scalp, a faint crawling sensation
+
+Speech difficulties, a slight hesitation before speaking
+
+Memory problems, I forget small details of a story someone just told
+
+Cognitive impairment, a momentary blankness when trying to recall something simple
+
+Disorientation, a brief moment of not knowing exactly what time it is
+
+Emotional instability, a fleeting feeling of sadness triggered by a song
+
+Delusions, a single, unique thought that I know isn't widely accepted
+
+Visual illusions, seeing a shimmer around bright lights
+
+Auditory illusions, hearing my name called when no one is there
+
+Dysphasia, a temporary struggle to articulate a complex thought
+
+Eye irritation, a feeling of mild dryness in my left eye
+
+Light sensitivity, my eyes water slightly in bright sunlight
+
+Visual aura, a very short burst of colored pixels
+
+Floaters, a single, transparent dot that disappears quickly
+
+Redness in my eyes, very faint lines of red in the whites
+
+Eyelid twitch, an occasional, light flicker of the upper lid
+
+Dry eyes, a feeling of mild stickiness in my eyes
+
+Blurred vision, a slight fuzziness at the edges of my vision
+
+Hearing loss, a difficulty catching words in a very noisy restaurant
+
+Tinnitus, a faint, consistent hum when it's very quiet
+
+Earache, a dull, intermittent pressure in one ear
+
+Itchy ear, a very light tickle in the outer ear canal
+
+Nosebleeds, a single drop of blood when blowing nose forcefully
+
+Nasal discharge, a very thin, occasional clear drip
+
+Taste alterations, food seems slightly less salty than usual
+
+Sore throat, a mild dryness that comes and goes
+
+Cough, a small, infrequent cough to clear my throat
+
+Shortness of breath, a slight breathlessness after running up two flights of stairs
+
+Wheezing, an almost imperceptible sound when exhaling after a deep breath
+
+Chest pain, a very brief, sharp sensation in the upper chest
+
+Painful breathing, a momentary tightness when stretching my chest
+
+Swelling in my feet, a minimal increase in size after long flight
+
+Cold hands, they feel slightly cool to the touch on a cool day
+
+Discoloration of skin, a very subtle ruddy complexion
+
+Leg pain, a mild achiness in the hamstrings after stretching
+
+Skin breakdown, very fine lines appearing on my elbows
+
+Skin lesions, tiny, almost flat brown spots
+
+Hives, a few small, pinkish bumps that itch for a minute
+
+Blistering skin, microscopic, clear bumps that disappear quickly
+
+Peeling skin, a barely noticeable flaking on my forehead
+
+Excessive sweating, a dampness on my back when walking fast
+
+Night sweats, a very faint warmth and dampness on my neck
+
+Fatigue, a general feeling of mild tiredness after a busy day
+
+Muscle pain, a slight tenderness in my lower back after heavy lifting
+
+Joint swelling, my index finger joint feels a tiny bit stiff
+
+Tenderness in my ankle, after twisting it slightly
+
+Restricted movement in my shoulder, a minimal discomfort reaching overhead
+
+Muscle weakness in my forearm, slightly less endurance during repetitive tasks
+
+Hand tremors, an almost undetectable tremor when holding a full glass
+
+Numbness in a small, irregular patch on my calf, temporarily
+
+Tingling in my jaw, a subtle sensation along the bone
+
+Speech difficulties, a tendency to repeat certain words unconsciously
+
+Memory problems, I struggle to remember what I ate yesterday morning
+
+Cognitive impairment, a slight feeling of being 'slow on the uptake' in discussions
+
+Disorientation, a brief confusion about which day of the week it is
+
+Emotional instability, a momentary feeling of sadness from a nostalgic memory
+
+Delusions, a belief that certain numbers have special personal meaning
+
+Visual illusions, seeing patterns in random textures
+
+Auditory illusions, hearing a very faint buzzing that isn't really there
+
+Dysphasia, a temporary inability to articulate a simple instruction clearly
+
+Eye irritation, a faint burning sensation in my right eye
+
+Light sensitivity, needing to slightly adjust my phone brightness
+
+Visual aura, a very brief, colorful zig-zag in my peripheral view
+
+Floaters, a fine, almost translucent strand that drifts across my vision
+
+Redness in my eyes, a subtle pinkish tint after rubbing them
+
+Eyelid twitch, a sporadic, gentle flutter of the upper eyelid
+
+Dry eyes, a sensation of mild irritation and dryness
+
+Blurred vision, a slight, transient haziness when switching focus quickly
+
+Hearing loss, a minimal difficulty understanding accents I'm unfamiliar with
+
+Tinnitus, a very soft, high-pitched tone in one ear, usually at night
+
+Earache, a fleeting, sharp prickle inside one ear
+
+Itchy ear, a mild, superficial itch on the ear cartilage
+
+Nosebleeds, a tiny, pinpoint bleed when scratching my nose
+
+Nasal discharge, very clear and minimal, only when blowing nose
+
+Taste alterations, food tastes slightly sweeter than expected
+
+Sore throat, a mild rawness at the back of the throat after shouting
+
+Cough, an occasional, soft, barely audible cough
+
+Shortness of breath, a mild pant after carrying heavy groceries
+
+Wheezing, an extremely faint whistle when breathing out slowly
+
+Chest pain, a very light, fleeting ache in the center of the chest
+
+Painful breathing, a momentary catch in my breath when stretching arms wide
+
+Swelling in my hands, a subtle puffiness in the morning, goes away quickly
+
+Cold hands, they feel a touch cool in a room with air conditioning
+
+Discoloration of skin, a faint mottling on my knees when standing
+
+Leg pain, a mild, diffuse ache in my lower legs after a long flight
+
+Skin breakdown, very thin, superficial peeling on my shins
+
+Skin lesions, tiny, almost flat, pale spots
+
+Hives, a single, small, transient red bump on my arm
+
+Blistering skin, minuscule, transparent bumps from gentle friction
+
+Peeling skin, a very fine, almost invisible flaking around my nose
+
+Excessive sweating, a faint dampness on my palms when public speaking
+
+Night sweats, a very slight warmth and dampness on my pillow
+
+Fatigue, a feeling of being generally tired, but not exhausted
+
+Muscle pain, a slight stiffness in my calves after a jog
+
+Joint swelling, my thumb joint feels a little thicker than usual
+
+Tenderness in my hip, a faint ache after prolonged sitting
+
+Restricted movement in my spine, a small limitation when twisting
+
+Muscle weakness in my triceps, slightly less power during push-ups
+
+Hand tremors, a subtle unsteadiness when drawing fine lines
+
+Numbness in a specific, small area on my thigh, temporarily
+
+Tingling in my lip, a faint buzz at the corner of my mouth
+
+Speech difficulties, a tendency to slur very fast words
+
+Memory problems, I forget where I put my keys frequently
+
+Cognitive impairment, sometimes I miss obvious details
+
+Disorientation, a fleeting sense of unfamiliarity in a well-known place
+
+Emotional instability, a momentary wave of anger at minor annoyances
+
+Delusions, a belief that certain events are signs
+
+Visual illusions, seeing patterns in shadows
+
+Auditory illusions, hearing my name in a crowd
+
+Dysphasia, difficulty understanding complex instructions
+
+Eye irritation, a burning sensation in my eyes after being outside
+
+Light sensitivity, feeling the need to close my eyes briefly in bright sun
+
+Visual aura, a small, shimmering arc in my vision
+
+Floaters, a few, tiny, transparent specks that dart around
+
+Redness in my eyes, a noticeable redness along the lower eyelid
+
+Eyelid twitch, a persistent, but gentle, jump of the upper lid
+
+Dry eyes, a constant feeling of dryness and discomfort
+
+Blurred vision, a mild haziness that affects both eyes intermittently
+
+Hearing loss, a consistent difficulty hearing soft conversations
+
+Tinnitus, a constant, low-pitched ringing sound
+
+Earache, a dull, throbbing ache that persists for a while
+
+Itchy ear, a deep, persistent itch within the ear canal
+
+Nosebleeds, frequent, but light, from one nostril
+
+Nasal discharge, persistent, clear, and watery
+
+Taste alterations, food tasting consistently bland
+
+Sore throat, a constant, irritating tickle
+
+Cough, a persistent, dry, irritating cough that won't go away
+
+Shortness of breath, even after minimal exertion like walking across a room
+
+Wheezing, an audible whistle every time I breathe
+
+Chest pain, a constant, dull ache in the center of my chest
+
+Painful breathing, a sharp, localized pain when I take a deep breath
+
+Swelling in my legs, bilateral, moderate, especially around ankles
+
+Cold hands, constantly feeling chilly to the touch
+
+Discoloration of skin, a general pallor that is always present
+
+Leg pain, a persistent, aching discomfort in my calves
+
+Skin breakdown, areas of redness and scaling that don't improve
+
+Skin lesions, small, raised, red bumps that are numerous
+
+Hives, itchy welts that appear all over my body frequently
+
+Blistering skin, small, clear fluid-filled blisters that recur
+
+Peeling skin, noticeable flaking and peeling over large areas
+
+Excessive sweating, generalized, often occurring without exertion
+
+Night sweats, drenching, requiring me to change clothes at night
+
+Fatigue, a constant, overwhelming tiredness that doesn't improve with rest
+
+Muscle pain, a widespread, persistent aching throughout my body
+
+Joint swelling, multiple joints are visibly swollen, red, and warm
+
+Tenderness in my wrist, painful to the touch
+
+Painful breathing, hurts when I try to cough
+
+Swelling in my feet, bilateral, making shoes feel tight
+
+Cold hands, turning pale and numb in cool temperatures
+
+Discoloration of skin, a patchy redness that comes and goes
+
+Leg pain, a burning sensation down both legs
+
+Skin breakdown, small, non-healing sores on my legs
+
+Skin lesions, dry, scaly patches that are persistently itchy
+
+Hives, appearing as large, itchy welts after certain foods
+
+Blistering skin, painful blisters forming on my hands
+
+Peeling skin, constantly flaking on my face and hands
+
+Excessive sweating, localized to my armpits, even when cool
+
+Night sweats, mild, occurring consistently every night
+
+Fatigue, I feel tired even after a full night's sleep
+
+Muscle pain, a dull, constant ache in my neck and shoulders
+
+Joint swelling, affecting my fingers and toes
+
+Tenderness in my elbow, painful to extend my arm
+
+Restricted movement in my shoulder, difficulty raising arm above head
+
+Muscle weakness in my grip, dropping small objects frequently
+
+Hand tremors, fine tremors that interfere with writing
+
+Numbness in my left arm, extending from shoulder to fingertips
+
+Tingling in my right leg, a constant pins-and-needles sensation
+
+Speech difficulties, I sometimes stutter when I'm tired
+
+Memory problems, forgetting important dates and anniversaries
+
+Cognitive impairment, a noticeable slowing down of my thought process
+
+Disorientation, I sometimes get confused about directions in familiar places
+
+Emotional instability, experiencing rapid shifts from happy to sad
+
+Delusions, I believe I have special powers
+
+Visual illusions, seeing patterns in wallpaper that aren't there
+
+Auditory illusions, hearing faint music or voices in silence
+
+Dysphasia, difficulty reading complex sentences aloud
+
+Eye irritation, a constant foreign body sensation in my eyes
+
+Light sensitivity, needing to wear sunglasses indoors
+
+Visual aura, shimmering, wavy lines that precede headaches
+
+Floaters, numerous dark specks that constantly obstruct vision
+
+Redness in my eyes, persistently bloodshot and irritated
+
+Eyelid swelling, painful and significantly puffy eyelids
+
+Dry eyes, severe dryness that causes pain and blurred vision
+
+Blurred vision, a constant, generalized fuzziness that makes it hard to see
+
+Hearing loss, difficulty following any conversation in a noisy environment
+
+Tinnitus, a constant, high-pitched ringing that interferes with sleep
+
+Earache, a throbbing, relentless pain in both ears
+
+Itchy ear, an intense, deep itching that cannot be relieved
+
+Nosebleeds, severe and frequent, sometimes spontaneous
+
+Nasal discharge, thick, yellowish-green, and constantly present
+
+Taste alterations, food tasting consistently unpleasant or metallic
+
+Sore throat, constant, severe pain that makes swallowing difficult
+
+Cough, a persistent, hacking cough that interrupts conversations
+
+Shortness of breath, even while sitting still
+
+Wheezing, loud and consistent, audible without a stethoscope
+
+Chest pain, a crushing sensation that radiates to my left arm and jaw
+
+Painful breathing, any movement of my chest exacerbates the pain
+
+Swelling in my face, a noticeable puffiness, especially around the eyes
+
+Cold hands, painfully cold, turning white then blue
+
+Discoloration of skin, a widespread purplish discoloration
+
+Leg pain, constant, burning, neuropathic pain
+
+Skin breakdown, large, deep, non-healing ulcers
+
+Skin lesions, painful, weeping, crusted lesions
+
+Hives, giant, itchy welts that merge and cover large areas
+
+Blistering skin, widespread, large, painful blisters
+
+Peeling skin, large sheets of skin peeling off, revealing raw areas
+
+Excessive sweating, drenching, cold sweats that appear suddenly
+
+Night sweats, so profuse they require changing bed sheets multiple times
+
+Fatigue, I am completely exhausted, unable to perform daily tasks
+
+Muscle pain, severe, widespread, constant, debilitating
+
+Joint swelling, all my joints are stiff, swollen, and extremely painful
+
+Tenderness in my neck, any touch causes sharp pain
+
+Restricted movement in my back, unable to bend or twist
+
+Muscle weakness, profound weakness making it difficult to stand or walk
+
+Hand tremors, gross, involuntary tremors that prevent any fine motor skills
+
+Numbness in both legs, extending from hips to toes
+
+Tingling in my entire body, a constant, uncomfortable prickling sensation
+
+Speech difficulties, severe slurring, making speech unintelligible
+
+Memory problems, significant gaps in memory, difficulty recognizing family
+
+Cognitive impairment, severe difficulty with comprehension and problem-solving
+
+Disorientation, I am frequently unaware of my surroundings or who I am
+
+Emotional instability, unpredictable and extreme emotional outbursts
+
+Delusions, complex and bizarre beliefs that are unshakable
+
+Visual hallucinations, vivid, disturbing, and persistent visual experiences
+
+Auditory hallucinations, persistent, threatening, and intrusive voices
+
+Dysphasia, complete inability to understand or produce language
+
+Eye irritation, constant, severe pain that causes me to shut my eyes
+
+Light sensitivity, any light causes excruciating pain and migraines
+
+Visual aura, persistent, blinding flashes and loss of central vision
+
+Floaters, a dense, constant shower of debris that obscures all vision
+
+Redness in my eyes, severe, constant, painful, with purulent discharge
+
+Eyelid swelling, eyelids are swollen shut and extremely painful
+
+Dry eyes, eyes feel like sandpaper, burning and gritty all the time
+
+Blurred vision, vision is completely obscured, unable to perceive shapes
+
+Hearing loss, profound and irreversible deafness in both ears
+
+Tinnitus, a constant, agonizing, screaming noise in my head
+
+Earache, a relentless, burning, deep pain in both ears
+
+Itchy ear, constant, uncontrollable, painful itching deep within the ear
+
+Nosebleeds, continuous, gushing bleeding that won't stop
+
+Nasal discharge, copious, foul-smelling, and often bloody
+
+Taste alterations, everything tastes putrid, rotten, or like chemicals
+
+Sore throat, constant, raw, burning, unbearable pain that prevents eating
+
+Cough, a deep, rattling, painful, and constant cough with heavy phlegm
+
+Shortness of breath, gasping for air even when completely still
+
+Wheezing, extremely loud, audible across a room, accompanied by gasping
+
+Chest pain, a constant, agonizing, suffocating, crushing pain that doesn't ease
+
+Painful breathing, every inhalation and exhalation causes excruciating pain
+
+Swelling in my entire body, severe generalized edema, limbs are enormous
+
+Cold hands, icy, blue, swollen, and completely numb
+
+Discoloration of skin, large areas turning black and becoming necrotic
+
+Leg pain, constant, unbearable, burning, electric-shock type pain
+
+Skin breakdown, widespread, deep, infected ulcers that are expanding
+
+Skin lesions, large, weeping, painful, rapidly spreading masses
+
+Hives, covering my entire body, agonizingly itchy, blistering, and raw
+
+Blistering skin, entire body covered in large, raw, weeping blisters
+
+Peeling skin, continuous, painful, rapid sloughing of skin over my whole body
+
+Excessive sweating, continuous, drenching, cold, and debilitating
+
+Night sweats, non-stop, drenching, leading to hypothermia and shivering
+
+Fatigue, I am in a state of profound unresponsiveness, unable to interact
+
+Muscle pain, total body agony, paralyzing, every movement is torture
+
+Joint swelling, my joints are rigid, deformed, and completely immobile
+
+Tenderness in my entire skeletal structure, excruciatingly painful to touch
+
+Restricted movement, complete and utter immobility of my body
+
+Muscle weakness, completely flaccid paralysis, unable to initiate any movement
+
+Hand tremors, continuous, violent, uncontrollable convulsions of my hands
+
+Numbness, a profound, complete, and permanent loss of sensation
+
+Tingling, a constant, intense, burning, and agonizing pins-and-needles sensation
+
+Speech loss, complete and irreversible inability to produce any vocalizations
+
+Memory loss, no recollection of my entire life, profound amnesia
+
+Cognitive impairment, complete inability to think, reason, or understand
+
+Disorientation, I exist in a state of perpetual, profound confusion
+
+Emotional withdrawal, I am completely disengaged from reality, catatonic
+
+Delusions, I am trapped in a complex web of terrifying, unshakeable beliefs
+
+Visual hallucinations, constant, terrifying, and all-consuming visual horrors
+
+Auditory hallucinations, non-stop, terrifying, and commanding voices
+
+Dysphasia, I cannot process any form of linguistic or communicative input
+
+Eye irritation, constant, excruciating, unbearable pain in my eyes
+
+Light sensitivity, any amount of light causes blinding, agonizing pain
+
+Visual aura, persistent, overwhelming, blinding flashes that prevent vision
+
+Floaters, a dense, constant, impenetrable visual obstruction
+
+Redness in my eyes, severe, constant, bloody, and oozing discharge
+
+Eyelid swelling, my eyes are swollen completely shut, fused together
+
+Dry eyes, my eyes feel like they are completely shriveling and drying
+
+Blurred vision, my vision is an absolute, impenetrable whiteout
+
+Hearing loss, total, profound, and irreversible deafness
+
+Tinnitus, a constant, unbearable, screaming, high-pitched noise
+
+Earache, a relentless, burning, deep, and agonizing pain
+
+Itchy ear, constant, maddening, uncontrollable itching deep within the ear
+
+Nosebleeds, ceaseless, gushing, uncontrollable, life-threatening bleeding
+
+Nasal discharge, copious, foul-smelling, bloody, and purulent
+
+Taste alterations, every taste is a source of intense agony or disgust
+
+Sore throat, a constant, burning, raw, and utterly unbearable pain
+
+Cough, a deep, rattling, painful, and never-ending cough
+
+Shortness of breath, gasping for air with every tiny movement
+
+Wheezing, a constant, loud, terrifying, and debilitating wheeze
+
+Chest pain, a constant, crushing, agonizing, suffocating, unbearable pain
+
+Painful breathing, every single breath feels like a tearing agony
+
+Swelling in my abdomen, severely distended, painful, and taut
+
+Cold hands, blue, swollen, numb, and agonizingly painful
+
+Discoloration of skin, widespread darkening, hardening, and sloughing
+
+Leg pain, constant, throbbing, excruciating, and paralyzing
+
+Skin breakdown, full-thickness, non-healing, rapidly expanding wounds
+
+Skin lesions, rapidly spreading, painful, disfiguring, and infected masses
+
+Hives, covering my entire body, excruciatingly itchy, blistering, and raw
+
+Blistering skin, my entire body is covered in raw, weeping, agonizing blisters
+
+Peeling skin, continuous, painful, rapid sloughing of my entire skin surface
+
+Excessive sweating, continuous, drenching, cold, and incapacitating
+
+Night sweats, non-stop, drenching, leading to severe hypothermia
+
+Fatigue, I am in a vegetative state, completely unresponsive and unconscious
+
+Muscle pain, total body agony, completely paralyzing and unendurable
+
+Joint swelling, my joints are completely locked, deformed, and rigid
+
+Tenderness in my entire body, excruciatingly painful to the slightest touch
+
+Restricted movement, complete and utter, irreversible immobility
+
+Muscle weakness, completely flaccid, permanent paralysis
+
+Hand tremors, continuous, violent, uncontrollable, debilitating convulsions
+
+Numbness, profound, complete, and permanent loss of all sensation
+
+Tingling, a constant, intense, burning, agonizing, and overwhelming sensation
+
+Speech loss, complete, irreversible mutism
+
+Memory loss, complete and permanent amnesia
+
+Cognitive impairment, complete and irreversible inability to think or understand
+
+Disorientation, I am in a state of continuous, profound, and irreversible confusion
+
+Emotional withdrawal, I am in a catatonic state, completely unresponsive
+
+Delusions, I am trapped in a complex web of pervasive, terrifying, unshakable beliefs
+
+Visual hallucinations, constant, terrifying, and all-consuming visual horrors
+
+Auditory hallucinations, non-stop, terrifying, and commanding voices
+
+Dysphasia, I cannot process any form of linguistic or communicative input
+
+Eye irritation, constant, excruciating, unbearable, and incapacitating pain
+
+Light sensitivity, any amount of light causes blinding, agonizing, irreversible pain
+
+Visual aura, persistent, overwhelming, blinding, and permanent flashes
+
+Floaters, a dense, constant, impenetrable, and permanent visual obstruction
+
+Redness in my eyes, severe, constant, bloody, and profusely oozing
+
+Eyelid swelling, my eyes are swollen completely shut, permanently fused
+
+Dry eyes, my eyes feel like they are completely shriveling, desiccating, and painful
+
+Blurred vision, my vision is an absolute, impenetrable, and permanent whiteout
+
+Hearing loss, total, profound, and permanent deafness
+
+Tinnitus, a constant, unbearable, screaming, high-pitched, and permanent noise
+
+Earache, a relentless, burning, deep, and agonizing pain
+
+Itchy ear, constant, maddening, uncontrollable, and debilitating itching
+
+Nosebleeds, ceaseless, gushing, uncontrollable, and life-threatening bleeding
+
+Nasal discharge, copious, foul-smelling, bloody, purulent, and constant
+
+Taste alterations, every taste is a source of intense agony, disgust, or revulsion
+
+Sore throat, a constant, burning, raw, and utterly unbearable pain that prevents any intake
+
+Cough, a deep, rattling, painful, and never-ending cough with copious, thick phlegm
+
+Shortness of breath, gasping for air with every minuscule movement, constant
+
+Wheezing, a constant, loud, terrifying, debilitating, and inescapable wheeze
+
+Chest pain, a constant, crushing, agonizing, suffocating, unbearable, and paralyzing pain
+
+Painful breathing, every single breath feels like a tearing, ripping agony
+
+Swelling in my abdomen, severely distended, painful, taut, and discolored
+
+Cold hands, blue, swollen, numb, agonizingly painful, and gangrenous
+
+Discoloration of skin, widespread darkening, hardening, sloughing, and necrosis
+
+Leg pain, constant, throbbing, excruciating, paralyzing, and unbearable
+
+Skin breakdown, full-thickness, non-healing, rapidly expanding, and infected wounds
+
+Skin lesions, rapidly spreading, painful, disfiguring, infected, and ulcerating masses
+
+Hives, covering my entire body, excruciatingly itchy, blistering, raw, and permanent
+
+Blistering skin, my entire body is covered in raw, weeping, agonizing, and permanent blisters
+
+Peeling skin, continuous, painful, rapid sloughing of my entire skin surface, permanently
+
+Excessive sweating, continuous, drenching, cold, incapacitating, and permanent
+
+Night sweats, non-stop, drenching, leading to severe, life-threatening hypothermia, permanent
+
+Fatigue, I am in a vegetative state, completely unresponsive, unconscious, and permanent
+
+Muscle pain, total body agony, completely paralyzing, unendurable, and permanent
+
+Joint swelling, my joints are completely locked, deformed, rigid, and permanently immobile
+
+Tenderness in my entire skeletal structure, excruciatingly painful to the slightest touch, permanent
+
+Restricted movement, complete and utter, irreversible, and permanent immobility
+
+Muscle weakness, completely flaccid, permanent, and irreversible paralysis
+
+Hand tremors, continuous, violent, uncontrollable, debilitating, and permanent convulsions
+
+Numbness, profound, complete, permanent, and irreversible loss of all sensation
+
+Tingling, a constant, intense, burning, agonizing, overwhelming, and permanent sensation
+
+Speech loss, complete, irreversible, and permanent mutism
+
+Memory loss, complete, permanent, and irreversible amnesia
+
+Cognitive impairment, complete and irreversible inability to think, reason, or understand
+
+Disorientation, I am in a state of continuous, profound, irreversible, and permanent confusion
+
+Emotional withdrawal, I am in a catatonic state, completely unresponsive, and permanent
+
+Delusions, I am trapped in a complex web of pervasive, terrifying, unshakable, and permanent beliefs
+
+Visual hallucinations, constant, terrifying, all-consuming, and permanent visual horrors
+
+Auditory hallucinations, non-stop, terrifying, commanding, and permanent voices
+
+Dysphasia, I cannot process any form of linguistic or communicative input, permanently

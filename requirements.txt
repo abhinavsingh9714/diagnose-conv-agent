@@ -8,4 +8,5 @@ tqdm
 fastapi
 uvicorn
 jupyter
-
+sentencepiece
+protobuf
